@@ -15,21 +15,21 @@ const ProfileRightBar = () => {
       <div className="profileRightBarInfo">
         <div className="profileRightBarInfoItem">
           <span className="profileRightBarInfoKey">Email: </span>
-          <span className="profileRightBarInfoValue">amberlogan@gmail.com</span>
+          <span className="profileRightBarInfoValue">kirangupta2002892@gamil.com</span>
         </div>
         <div className="profileRightBarInfoItem">
           <span className="profileRightBarInfoKey">Phone Number: </span>
-          <span className="profileRightBarInfoValue">+4 123 456 789</span>
+          <span className="profileRightBarInfoValue">+91 8924988784</span>
         </div>
         <div className="profileRightBarInfoItem">
           <span className="profileRightBarInfoKey">Address: </span>
           <span className="profileRightBarInfoValue">
-            Melwood Str. 72 Liverpool
+          Kanpur
           </span>
         </div>
         <div className="profileRightBarInfoItem">
           <span className="profileRightBarInfoKey">Country: </span>
-          <span className="profileRightBarInfoValue">United Kingdom</span>
+          <span className="profileRightBarInfoValue">India</span>
         </div>
         <div className="profileRightBarInfoItem">
           <span className="profileRightBarInfoKey">Relationship: </span>
@@ -45,7 +45,7 @@ const ProfileRightBar = () => {
             alt=""
             className="profileRightBarFollowingImg"
           />
-          <span className="profileRightBarFollowingName">Janet</span>
+          <span className="profileRightBarFollowingName">Jannat</span>
         </div>
         <div className="profileRightBarFollowing">
           <img
@@ -53,7 +53,7 @@ const ProfileRightBar = () => {
             alt=""
             className="profileRightBarFollowingImg"
           />
-          <span className="profileRightBarFollowingName">Isabella</span>
+          <span className="profileRightBarFollowingName">Isha</span>
         </div>
         <div className="profileRightBarFollowing">
           <img
@@ -61,7 +61,7 @@ const ProfileRightBar = () => {
             alt=""
             className="profileRightBarFollowingImg"
           />
-          <span className="profileRightBarFollowingName">Beverly</span>
+          <span className="profileRightBarFollowingName">Divya</span>
         </div>
         <div className="profileRightBarFollowing">
           <img
@@ -69,7 +69,7 @@ const ProfileRightBar = () => {
             alt=""
             className="profileRightBarFollowingImg"
           />
-          <span className="profileRightBarFollowingName">Glenna</span>
+          <span className="profileRightBarFollowingName">Shama</span>
         </div>
         <div className="profileRightBarFollowing">
           <img
@@ -77,7 +77,7 @@ const ProfileRightBar = () => {
             alt=""
             className="profileRightBarFollowingImg"
           />
-          <span className="profileRightBarFollowingName">Alexis</span>
+          <span className="profileRightBarFollowingName">Priya</span>
         </div>
         <div className="profileRightBarFollowing">
           <img
@@ -85,7 +85,7 @@ const ProfileRightBar = () => {
             alt=""
             className="profileRightBarFollowingImg"
           />
-          <span className="profileRightBarFollowingName">Kate</span>
+          <span className="profileRightBarFollowingName">kate</span>
         </div>
       </div>
     </div>

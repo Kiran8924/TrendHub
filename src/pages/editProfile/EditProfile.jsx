@@ -47,30 +47,30 @@ const EditProfile = () => {
                   </div>
                   <div className="formInput">
                     <label>Name</label>
-                    <input type="text" placeholder="Jane Doe" />
+                    <input type="text" placeholder="Kiran Gupta" />
                   </div>
                   <div className="formInput">
                     <label>Username</label>
-                    <input type="text" placeholder="jane_doe" />
+                    <input type="text" placeholder="Kiran Gupta" />
                   </div>
                   <div className="formInput">
                     <label>Email</label>
-                    <input type="email" placeholder="jane_doe@gmail.com" />
+                    <input type="email" placeholder="kirangupta2002892@gmail.com" />
                   </div>
                   <div className="formInput">
                     <label>Phone</label>
-                    <input type="text" placeholder="+4 123 456 789" />
+                    <input type="text" placeholder="+91 8924988784" />
                   </div>
                   <div className="formInput">
                     <label>Address</label>
                     <input
                       type="text"
-                      placeholder="Melwood str. 71 Liverpool"
+                      placeholder="Kanpur"
                     />
                   </div>
                   <div className="formInput">
                     <label>Country</label>
-                    <input type="text" placeholder="United Kingdom" />
+                    <input type="text" placeholder="India" />
                   </div>
                   <button type="submit" className="updateButton">
                     Update Profile
